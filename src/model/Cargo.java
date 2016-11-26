@@ -1,5 +1,6 @@
 package model;
 
+//teste
 public class Cargo {
 	private int id;
 	private String nome;
